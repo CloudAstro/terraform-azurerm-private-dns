@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-private-dns/compare/v1.0.0...v1.1.0) (2026-06-18)
+
+
+### Features
+
+* bump tf and provider version ([#2](https://github.com/CloudAstro/terraform-azurerm-private-dns/issues/2)) ([ec2fc80](https://github.com/CloudAstro/terraform-azurerm-private-dns/commit/ec2fc80003cd239152ab4ebd1270c6bf47bff8ec))
+
 ## 1.0.0 (2025-06-09)
 
 
