@@ -52,7 +52,7 @@ module "private_dns_zone" {
 
   cname_records = {
     "my-cname-record-1" = {
-      name   = "record1"
+      name   = "cname1"
       ttl    = 3600
       record = "example.com"
       tags   = { "environment" = "dev", "project" = "example" }
